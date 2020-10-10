@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Second_Year/First_Semester/Programming C++/Assignments/assignment1/main.cpp
+iostream
+-
+string
+-
+conio.h
+-
+
